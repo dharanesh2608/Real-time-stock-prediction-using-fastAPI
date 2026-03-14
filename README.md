@@ -29,7 +29,7 @@ https://github.com/dharanesh2608/Real-time-stock-prediction-using-fastAPI
 
 ## Prediction Output
 
-![Prediction Output](images/prediction_output.png)
+![Prediction Output](images/WhatsApp Image 2026-03-14 at 12.16.48 PM.jpeg)
 
 ---
 
