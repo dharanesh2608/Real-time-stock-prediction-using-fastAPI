@@ -12,24 +12,30 @@ GitHub Repo:
 https://github.com/dharanesh2608/Real-time-stock-prediction-using-fastAPI
 
 ---
-
 # 🖼️ Project Preview
 
 ## API Documentation (Swagger UI)
 
-![Swagger UI](images/api_docs.png)
+![Swagger UI](images/Screenshot%202026-03-14%20123544.png)
 
 ---
 
 ## Stock Data Fetch Example
 
-![Stock Data](images/stock_data.png)
+![Stock Data](images/Screenshot%202026-03-14%20113803.png)
 
 ---
 
 ## Prediction Output
 
-![Prediction Output](images/WhatsApp Image 2026-03-14 at 12.16.48 PM.jpeg)
+![Prediction Output 1](images/Screenshot%202026-03-14%20113912.png)
+
+![Prediction Output 2](images/Screenshot%202026-03-14%20114049.png)
+
+![Prediction Output 3](images/WhatsApp%20Image%202026-03-14%20at%2012.16.48%20PM.jpeg)
+
+![Prediction Output 4](images/WhatsApp%20Image%202026-03-14%20at%2012.16.49%20PM.jpeg)
+
 
 ---
 
